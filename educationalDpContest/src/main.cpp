@@ -6,10 +6,12 @@
  */
 
 
-#include <bits/stdc++.h>
-#define fo(i,a,b) for(int i=a;i<b;i++)
-using namespace std;
+#include "globals.h"
+#include "A_frog1.h"
+#include "B_frog2.h"
 
 int main(){
+	//Frog1 a_frog1_obj; a_frog1_obj.solve();
+	Frog2 a_frog2_obj; a_frog2_obj.solve();
 	return 0;
 }
